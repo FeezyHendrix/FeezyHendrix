@@ -13,4 +13,4 @@ I'm a software Engineer for Fun, Written  Javascript, TypeScript and Python(Mach
 
 
 #### The only way to make sense out of change is to plunge into it, move with it, and join the dance. 
-    - Alan Watts
+Alan Watts
