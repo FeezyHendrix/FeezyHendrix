@@ -1,7 +1,7 @@
 ### Hi there 
-I'm a software Engineer for Fun, Written  Javascript, TypeScript and Python(Machine Learning)
+I'm a software Engineer for Fun, Writting  Javascript, TypeScript and Python(Machine Learning)
 
-- Currently Learning Rust, Go and Dart - Yes I can learn multiples language at once you capping!. 
+- Currently Learning Rust, Go - Yes I can learn multiples language at once you capping!. 
 
 #### Useful Links
 - [Twitter](https://twitter.com/feezyhendrix)
