@@ -16,4 +16,4 @@ I'm a software Engineer for Fun, Writting  Javascript, TypeScript and Python(Mac
 Alan Watts
 
 
-![Profile views](https://gpvc.arturio.dev/[feezyhendrix])
+![Profile views](https://gpvc.arturio.dev/[FeezyHendrix])
