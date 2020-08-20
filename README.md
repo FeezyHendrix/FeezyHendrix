@@ -17,4 +17,4 @@ Alan Watts
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=feezyhendrix&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/[FeezyHendrix])
+![Profile views](https://gpvc.arturio.dev/feezyhendrix)
