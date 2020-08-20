@@ -15,5 +15,6 @@ I'm a software Engineer for Fun, Writting  Javascript, TypeScript and Python(Mac
 #### The only way to make sense out of change is to plunge into it, move with it, and join the dance. 
 Alan Watts
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=feezyhendrix&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/[FeezyHendrix])
