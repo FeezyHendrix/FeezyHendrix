@@ -1,7 +1,7 @@
 ### Ye Yu! 
 I'm a software Engineer for Fun, Writting  Javascript, TypeScript and Python(Machine Learning)
 
-- Currently Learning Rust.
+- Currently Learning Golang & Rust.
 
 #### Useful Links
 - [Twitter](https://twitter.com/feezyhendrix)
