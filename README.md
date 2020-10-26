@@ -1,14 +1,13 @@
-### Ye Yu! 
-I'm a software Engineer for Fun, Writting  Javascript, TypeScript and Python(Machine Learning)
+### Hi! 
+I'm a Student | Software Engineer Writting  Javascript, TypeScript and Python(Machine Learning)
 
-- Currently Learning Golang & Rust.
+- Currently Taming Golang & Rust. 
 
 #### Useful Links
 - [Twitter](https://twitter.com/feezyhendrix)
 - [LinkedIn](https://www.linkedin.com/in/feezyhendrix/)
 - [Medium](https://medium.com/@hafeezraheem)
 - [Personal Website](https://feezyhendrix.github.io/)
-
 - Running [Bluelight Agency](http://bluelight.com.ng/)
 
 
