@@ -8,7 +8,7 @@ I'm a Student | Software Engineer Writting  Javascript, TypeScript and Python
 - [Twitter](https://twitter.com/feezyhendrix)
 - [LinkedIn](https://www.linkedin.com/in/feezyhendrix/)
 - [Medium](https://medium.com/@hafeezraheem)
-- [Personal Website](https://feezyhendrix.github.io/)
+- [Personal Website](https://feezyhendrix.art/)
 - Running [Bluelight Agency](http://bluelight.com.ng/)
 
 
