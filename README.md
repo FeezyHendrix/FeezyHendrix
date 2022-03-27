@@ -1,5 +1,5 @@
 ### Hi! 
-I'm a Student | Senior Software Engineer with 6+ Experience in Writing  Javascript, TypeScript and Python
+I'm a Student | Senior Software Engineer with 6+ years of Experience in Writing  Javascript, TypeScript and Python
 
 - Currently Taming Golang & Rust. 
 - I really love rockets! I would sell my soul to work at NASA or SpaceX (just joking, 还是我). 
