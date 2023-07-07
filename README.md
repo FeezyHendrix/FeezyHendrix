@@ -1,18 +1,19 @@
 ### Hi! 
 I'm a Senior Software Engineer with 6+ years of Experience in Writing  Javascript, TypeScript and Python
 
-- Currently Taming Golang & Rust. 
-- I really love rockets! I would sell my soul to work at NASA or SpaceX (just joking, 还是我). 
-
-#### Useful Links
-- [Twitter](https://twitter.com/feezyhendrix)
-- [LinkedIn](https://www.linkedin.com/in/feezyhendrix/)
-- [Medium](https://medium.com/@hafeezraheem)
+### Technology Stacks
+- Language: Typescript, Python, Golang
+- Messaging: Redis, RabbitMQ
+- DBMS: PostgreSQL, MongoDB
+- Infrastructure: Docker
 
 
-#### The only way to make sense out of change is to plunge into it, move with it, and join the dance. 
+#### The only way to make sense of change is to plunge into it, move with it, and join the dance. 
 Alan Watts
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=feezyhendrix&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/feezyhendrix)
+<a href="https://github.com/ichtrojan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=feezyhendrix&theme=nord&show_icons=true&count_private=true&hide=contribs&line_height=40" />
+</a>
+<a href="https://github.com/ichtrojan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feezyhendrix&theme=nord&langs_count=4&hide=html,css" />
+</a>
