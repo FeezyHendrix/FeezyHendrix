@@ -17,8 +17,9 @@ Alan Watts
 <a href="https://github.com/feezyhendrix">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feezyhendrix&theme=nord&langs_count=4&hide=html,css" />
 </a>
+<br />
 
 
-<p align="center">
+<p>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=feezyhendrix&hide_border=true" alt="HNDRX's commit streaks stats" />
 </p>
