@@ -17,3 +17,12 @@ Alan Watts
 <a href="https://github.com/ichtrojan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feezyhendrix&theme=nord&langs_count=4&hide=html,css" />
 </a>
+
+<p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=feezyhendrix&hide=contribs&theme=transparent" alt="HNDRX's Github stats" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feezyhendrix&layout=compact&theme=transparent&size_weight=0&count_weight=1" alt="HNDRX's programming languages stats" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=feezyhendrix&hide_border=true" alt="HNDRX's commit streaks stats" />
+</p>
