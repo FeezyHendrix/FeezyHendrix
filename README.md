@@ -11,17 +11,3 @@ I'm a Senior Software Engineer with 6+ years of Experience in Writing  Javascrip
 #### The only way to make sense of change is to plunge into it, move with it, and join the dance. 
 Alan Watts
 
-<p style="margin-bottom: 10px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=feezyhendrix&hide_border=true" alt="HNDRX's commit streaks stats" />
-</p>
-
-<a href="https://github.com/feezyhendrix">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=feezyhendrix&theme=nord&show_icons=true&count_private=true&hide=contribs&line_height=40" />
-</a>
-<a href="https://github.com/feezyhendrix">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feezyhendrix&theme=nord&langs_count=4&hide=html,css" />
-</a>
-<br >
-
-
-
