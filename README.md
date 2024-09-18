@@ -2,7 +2,7 @@
 I'm a Senior Software Engineer with 6+ years of Experience in Writing  Javascript, TypeScript, Golang and Python
 
 ### Technology Stacks
-- Language: Typescrip, Rust, Python, Golang
+- Language: Typescript, Rust, Python, Golang
 - Messaging: Redis, RabbitMQ
 - DBMS: PostgreSQL, MongoDB
 - Infrastructure: Docker
