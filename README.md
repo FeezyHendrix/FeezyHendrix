@@ -1,5 +1,5 @@
 ### Hi! 
-I'm a Senior Software Engineer with 6+ years of Experience in Writing  Javascript, TypeScript, Golang and Python
+I'm a Senior Software Engineer with 7+ years of Experience in Writing  Javascript, TypeScript, Golang and Python
 
 ### Technology Stacks
 - Language: Typescript, Rust, Python, Golang
